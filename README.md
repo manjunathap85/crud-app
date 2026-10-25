@@ -1,3 +1,4 @@
+# Sample edit
 # PostgreSQL CRUD Learning App
 
 A small Streamlit app for learning Create, Read, Update, and Delete (CRUD) operations. It stores items in your local PostgreSQL database.
